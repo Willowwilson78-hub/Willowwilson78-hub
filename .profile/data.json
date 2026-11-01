@@ -1,0 +1,240 @@
+{
+ "key": "7ddde312",
+ "stars": 2,
+ "contributions": 145,
+ "repos": 8,
+ "followers": 1,
+ "languages": [
+  [
+   "HTML",
+   46014
+  ],
+  [
+   "C++",
+   19626
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 5,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 3,
+    "day": 1,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 3
+ },
+ "pins": [
+  {
+   "name": "REDMI-Note10-JE-5G-Root-Tutorial",
+   "url": "https://github.com/Willowwilson78-hub/REDMI-Note10-JE-5G-Root-Tutorial",
+   "text": "REDMI-Note10-JE-5G-Root-Tutorial",
+   "fork": false,
+   "stars": 2,
+   "language": null,
+   "topics": [
+    "root",
+    "tutorial",
+    "redminote10je",
+    "rn10je"
+   ]
+  },
+  {
+   "name": "Anime-Hair-Palette-Calculator",
+   "url": "https://github.com/Willowwilson78-hub/Anime-Hair-Palette-Calculator",
+   "text": "A lightweight, simple, real-time web tool to calculate dynamic highlights and shadows for anime hair palettes based on a base color selection. Built with pure HTML5 Canvas and CSS Glassmorphism.",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Newton-Cannon-Experiments",
+   "url": "https://github.com/Willowwilson78-hub/Newton-Cannon-Experiments",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "ESP32-CYD-Photoframe",
+   "url": "https://github.com/Willowwilson78-hub/ESP32-CYD-Photoframe",
+   "text": "High-performance photo frame & video player for ESP32-2432S028 (CYD). Replaces unstable AnimatedGIF with a streaming MJPEG player: one .mjpeg file per video, read sequentially from the SD card for smooth, artifact-free playback and near-instant loading.",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": [
+    "esp32",
+    "esp32cyd",
+    "photoframe"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "REDMI-Note10-JE-5G-Root-Tutorial",
+   "url": "https://github.com/Willowwilson78-hub/REDMI-Note10-JE-5G-Root-Tutorial",
+   "text": "REDMI-Note10-JE-5G-Root-Tutorial",
+   "fork": false,
+   "stars": 2,
+   "language": null,
+   "topics": [
+    "root",
+    "tutorial",
+    "redminote10je",
+    "rn10je"
+   ]
+  },
+  {
+   "name": "Willowwilson78-hub",
+   "url": "https://github.com/Willowwilson78-hub/Willowwilson78-hub",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "ESP32-CYD-Photoframe",
+   "url": "https://github.com/Willowwilson78-hub/ESP32-CYD-Photoframe",
+   "text": "High-performance photo frame & video player for ESP32-2432S028 (CYD). Replaces unstable AnimatedGIF with a streaming MJPEG player: one .mjpeg file per video, read sequentially from the SD card for smooth, artifact-free playback and near-instant loading.",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": [
+    "esp32",
+    "esp32cyd",
+    "photoframe"
+   ]
+  },
+  {
+   "name": "Newton-Cannon-Experiments",
+   "url": "https://github.com/Willowwilson78-hub/Newton-Cannon-Experiments",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Blah-blah-blah",
+   "url": "https://github.com/Willowwilson78-hub/Blah-blah-blah",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Wallpaper-For-My-HyprLand-Arch",
+   "url": "https://github.com/Willowwilson78-hub/Wallpaper-For-My-HyprLand-Arch",
+   "text": "just help for me, I will delete soon, use git clone",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Anime-Hair-Palette-Calculator",
+   "url": "https://github.com/Willowwilson78-hub/Anime-Hair-Palette-Calculator",
+   "text": "A lightweight, simple, real-time web tool to calculate dynamic highlights and shadows for anime hair palettes based on a base color selection. Built with pure HTML5 Canvas and CSS Glassmorphism.",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Wuwa-Config-For-Redmi-Note-14-5G",
+   "url": "https://github.com/Willowwilson78-hub/Wuwa-Config-For-Redmi-Note-14-5G",
+   "text": "WuWa Config for Redmi Note 14 5G (Dimensity 7025 + IMG BXM-8-256)  Focused on: - Stable FPS - Reduced thermal throttling - Better sustained performance - Preserved character clarity - Reduced distant geometry/foliage",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
