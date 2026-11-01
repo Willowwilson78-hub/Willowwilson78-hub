@@ -1,20 +1,20 @@
 {
   "version": 1,
   "login": "Willowwilson78-hub",
-  "seed": "#8F493D",
-  "seedFromAvatar": true,
+  "seed": "#E5484D",
+  "seedFromAvatar": false,
   "scheme": "tonalSpot",
   "motion": true,
   "iconFill": true,
   "order": [
     "hero",
+    "wave",
     "socials",
     "about",
     "stack",
     "projects",
     "stats",
     "streak",
-    "wave",
     "buttons"
   ],
   "hidden": [],
@@ -23,8 +23,13 @@
     "name": "",
     "subtitle": "Hi I'm Wilson, a Beginner and I Love Tech",
     "typing": true,
-    "avatarShape": "gem",
-    "chips": []
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "brand:github",
+        "label": "Github"
+      }
+    ]
   },
   "about": {
     "title": "About me",
@@ -38,8 +43,12 @@
         "label": "Mostly frontend"
       },
       {
-        "icon": "brand:github",
+        "icon": "palette",
         "label": "Love Open Source"
+      },
+      {
+        "icon": "brand:nexon",
+        "label": "Blue Archive Lover"
       }
     ]
   },
@@ -73,6 +82,10 @@
           {
             "icon": "brand:openwrt",
             "label": "OpenWRT"
+          },
+          {
+            "icon": "brand:platformio",
+            "label": "PlatformIO"
           }
         ]
       }
@@ -84,10 +97,27 @@
       "ESP32-CYD-Photoframe",
       "REDMI-Note10-JE-5G-Root-Tutorial",
       "Anime-Hair-Palette-Calculator",
-      "Newton-Cannon-Experiments",
-      "Wuwa-Config-For-Redmi-Note-14-5G"
+      "Wuwa-Config-For-Redmi-Note-14-5G",
+      "Newton-Cannon-Experiments"
     ],
-    "overrides": {},
+    "overrides": {
+      "ESP32-CYD-Photoframe": {
+        "icon": "photo_frame",
+        "shape": "cookie"
+      },
+      "REDMI-Note10-JE-5G-Root-Tutorial": {
+        "shape": "cookie",
+        "icon": "brand:magisk"
+      },
+      "Anime-Hair-Palette-Calculator": {
+        "icon": "format_paint",
+        "shape": "cookie"
+      },
+      "Wuwa-Config-For-Redmi-Note-14-5G": {
+        "icon": "sports_esports",
+        "shape": "cookie"
+      }
+    },
     "empty": "No description yet.",
     "fork": "Fork"
   },
@@ -120,20 +150,20 @@
       },
       {
         "icon": "brand:facebook",
-        "url": "https://www.facebook.com/WillowWilson78#"
+        "url": "https://www.facebook.com/WillowWilson78"
       }
     ],
     "variant": "chip",
-    "fill": "filled",
+    "fill": "tonal",
     "card": true
   },
   "buttons": {
     "items": [
       {
         "icon": "brand:github",
-        "label": "Expressive Profile",
-        "url": "https://metawka.github.io/expressive-profile/",
-        "style": "filled"
+        "label": "Link",
+        "url": "https://github.com/metawka/expressive-profile",
+        "style": "tonal"
       }
     ],
     "card": true
