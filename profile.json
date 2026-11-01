@@ -21,34 +21,25 @@
   "hero": {
     "greeting": "Hi, I'm",
     "name": "",
-    "subtitle": "I build interfaces and small useful tools.",
+    "subtitle": "Hi I'm Wilson, a Beginner and I Love Tech",
     "typing": true,
-    "avatarShape": "cookie12",
-    "chips": [
-      {
-        "icon": "location_on",
-        "label": "Earth"
-      },
-      {
-        "icon": "code",
-        "label": "TypeScript · Python"
-      }
-    ]
+    "avatarShape": "gem",
+    "chips": []
   },
   "about": {
     "title": "About me",
     "items": [
       {
         "icon": "person",
-        "label": "Developer and designer"
+        "label": "Loving Tech"
       },
       {
         "icon": "code",
         "label": "Mostly frontend"
       },
       {
-        "icon": "palette",
-        "label": "Into Material Design"
+        "icon": "brand:github",
+        "label": "Love Open Source"
       }
     ]
   },
@@ -59,16 +50,12 @@
         "title": "Main",
         "items": [
           {
-            "icon": "brand:typescript",
-            "label": "TypeScript"
+            "icon": "brand:html5",
+            "label": "HTML"
           },
           {
-            "icon": "brand:react",
-            "label": "React"
-          },
-          {
-            "icon": "brand:python",
-            "label": "Python"
+            "icon": "brand:espressif",
+            "label": "Espressif"
           }
         ]
       },
@@ -76,24 +63,30 @@
         "title": "Tools",
         "items": [
           {
-            "icon": "brand:git",
-            "label": "Git"
+            "icon": "brand:hyprland",
+            "label": "Arch Hyprland"
           },
           {
-            "icon": "brand:figma",
-            "label": "Figma"
+            "icon": "brand:github",
+            "label": "Github"
           },
           {
-            "icon": "brand:githubactions",
-            "label": "GitHub Actions"
+            "icon": "brand:openwrt",
+            "label": "OpenWRT"
           }
         ]
       }
     ]
   },
   "projects": {
-    "source": "pinned",
-    "repos": [],
+    "source": "manual",
+    "repos": [
+      "ESP32-CYD-Photoframe",
+      "REDMI-Note10-JE-5G-Root-Tutorial",
+      "Anime-Hair-Palette-Calculator",
+      "Newton-Cannon-Experiments",
+      "Wuwa-Config-For-Redmi-Note-14-5G"
+    ],
     "overrides": {},
     "empty": "No description yet.",
     "fork": "Fork"
@@ -119,35 +112,30 @@
     "items": [
       {
         "icon": "brand:telegram",
-        "url": "https://t.me/"
+        "url": "https://t.me/WillowWilson78"
       },
       {
-        "icon": "brand:discord",
-        "url": "https://discord.com/"
+        "icon": "brand:gmail",
+        "url": "mailto:hertacute78@gmail.com"
       },
       {
-        "icon": "brand:x",
-        "url": "https://x.com/"
+        "icon": "brand:facebook",
+        "url": "https://www.facebook.com/WillowWilson78#"
       }
     ],
     "variant": "chip",
-    "fill": "tonal",
+    "fill": "filled",
     "card": true
   },
   "buttons": {
     "items": [
       {
-        "icon": "language",
-        "label": "My website",
+        "icon": "brand:github",
+        "label": "Expressive Profile",
         "url": "https://example.com",
         "style": "filled"
-      },
-      {
-        "icon": "book_2",
-        "label": "All repositories",
-        "url": "",
-        "style": "tonal"
       }
-    ]
+    ],
+    "card": true
   }
 }
