@@ -1,17 +1,21 @@
 {
- "key": "3ef6ab61",
+ "key": "6af23425",
  "stars": 2,
- "contributions": 170,
+ "contributions": 171,
  "repos": 9,
  "followers": 1,
  "languages": [
+  [
+   "C++",
+   87665
+  ],
   [
    "HTML",
    46014
   ],
   [
-   "C++",
-   19626
+   "C",
+   567
   ]
  ],
  "days": [
@@ -91,7 +95,7 @@
   ],
   [
    {
-    "c": 1,
+    "c": 2,
     "day": 15,
     "today": true
    },
@@ -175,7 +179,7 @@
    "text": "",
    "fork": false,
    "stars": 0,
-   "language": null,
+   "language": "C++",
    "topics": []
   },
   {
