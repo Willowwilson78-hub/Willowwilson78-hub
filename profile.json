@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "Willowwilson78-hub",
-  "seed": "#E5484D",
+  "seed": "#2BB3C0",
   "seedFromAvatar": false,
   "scheme": "tonalSpot",
   "motion": true,
@@ -98,7 +98,8 @@
       "REDMI-Note10-JE-5G-Root-Tutorial",
       "Anime-Hair-Palette-Calculator",
       "Wuwa-Config-For-Redmi-Note-14-5G",
-      "Newton-Cannon-Experiments"
+      "Newton-Cannon-Experiments",
+      "ESP32_Power_Monitor"
     ],
     "overrides": {
       "ESP32-CYD-Photoframe": {

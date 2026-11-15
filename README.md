@@ -14,7 +14,7 @@
 
 <a href="https://github.com/Willowwilson78-hub/Anime-Hair-Palette-Calculator"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-anime-hair-palette-calculator-dark.svg"><img src="assets/project-anime-hair-palette-calculator-light.svg" width="49%" alt="Anime-Hair-Palette-Calculator"></picture></a>&nbsp;<a href="https://github.com/Willowwilson78-hub/Wuwa-Config-For-Redmi-Note-14-5G"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-wuwa-config-for-redmi-note-14-5g-dark.svg"><img src="assets/project-wuwa-config-for-redmi-note-14-5g-light.svg" width="49%" alt="Wuwa-Config-For-Redmi-Note-14-5G"></picture></a>
 
-<a href="https://github.com/Willowwilson78-hub/Newton-Cannon-Experiments"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-newton-cannon-experiments-dark.svg"><img src="assets/project-newton-cannon-experiments-light.svg" width="49%" alt="Newton-Cannon-Experiments"></picture></a>
+<a href="https://github.com/Willowwilson78-hub/Newton-Cannon-Experiments"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-newton-cannon-experiments-dark.svg"><img src="assets/project-newton-cannon-experiments-light.svg" width="49%" alt="Newton-Cannon-Experiments"></picture></a>&nbsp;<a href="https://github.com/Willowwilson78-hub/ESP32_Power_Monitor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-esp32-power-monitor-dark.svg"><img src="assets/project-esp32-power-monitor-light.svg" width="49%" alt="ESP32_Power_Monitor"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
