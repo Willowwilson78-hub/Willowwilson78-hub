@@ -1,5 +1,5 @@
 {
- "key": "662dee4a",
+ "key": "5e910dec",
  "stars": 2,
  "contributions": 164,
  "repos": 9,
@@ -102,9 +102,13 @@
    {
     "c": 0,
     "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -112,7 +116,7 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 0,
   "longest": 3
  },
  "pins": [
