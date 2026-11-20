@@ -1,5 +1,5 @@
 {
- "key": "5db0d60e",
+ "key": "cbdf7905",
  "stars": 2,
  "contributions": 165,
  "repos": 9,
@@ -117,14 +117,18 @@
    {
     "c": 0,
     "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
     "today": true
    },
-   null,
    null
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 0,
   "longest": 3
  },
  "pins": [
